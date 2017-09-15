@@ -9,3 +9,12 @@ Mempermudah dalam mengabsen siswa
 <li>Dibuat dengan CI</li>
 </ul>
 <small>Masoh banyak yang kurang, Anda juga bisa mengembangkanyya</small>
+# Spesifikasi
+<ul>
+  <li>PHP 7.1.1</li>
+  <li>Codeigniter 3.1.5</li>
+  <li>Bootstrap 3.3.7</li>
+  <li>query 3.2.1</li>
+  <li>Database driver : mysqli</li>
+</ul>
+
