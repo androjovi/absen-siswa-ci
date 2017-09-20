@@ -1,5 +1,5 @@
 # absen-siswa-ci
-Mempermudah dalam mengabsen siswa
+Absensi siswa online menggunakan framework ci
 <h2>Fitur</h2>
 <ul>
 <li>Login - logout</li>
